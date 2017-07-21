@@ -13,11 +13,12 @@ John Aho
 # Why
 
 DLP systems, MLS devices, and SecOps analysts know what data to look for
-So transform that data into something they're <b>not</b> looking for: 
+So transform that data into something they're <b>not</b> looking for: <br/>
+
 <img src=https://github.com/JohnAho/Cloakify-Powershell/blob/master/screenshots/CloakedWithNoise.png></img>
 
 
-#Decloaking File
+# Decloaking File
 <img src=https://github.com/JohnAho/Cloakify-Powershell/blob/master/screenshots/Decloaking_File.png></img>
 
 # Comparing Output
