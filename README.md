@@ -18,7 +18,7 @@ So transform that data into something they're <b>not</b> looking for:
 
 
 #Decloaking File
-<img src=https://github.com/JohnAho/Cloakify-Powershell/blob/master/screenshots/Decloaking_File.PNG></img>
+<img src=https://github.com/JohnAho/Cloakify-Powershell/blob/master/screenshots/Decloaking_File.png></img>
 
 # Comparing Output
 <img src=https://github.com/JohnAho/Cloakify-Powershell/blob/master/screenshots/ComparingOutput.PNG></img>
