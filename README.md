@@ -8,7 +8,7 @@ CloakifyFactory & the Cloakify Toolset - Data Exfiltration & Infiltration In Pla
 Joe Gervais (TryCatchHCF) - Original Python
 
 # Ported to Powershell by
-John Aho
+dumpsterfirevip
 
 # Why
 
